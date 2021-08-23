@@ -1,0 +1,9 @@
+ {
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "2ERXGRQH6L.com.bhi.onemore",
+            "paths": ["/one-more/*"]
+            }]
+        }
+ }
